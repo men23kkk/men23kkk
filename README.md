@@ -1,4 +1,4 @@
-## Hi there 👋 corinthians
+Salve o Corinthians
 ![image](https://github.com/user-attachments/assets/f577c921-29c4-407e-8f5b-30269b7b6adb)
 
 <!--
